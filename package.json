@@ -1,0 +1,24 @@
+{
+  "name": "boilerplate-dom-webpack-webworker",
+  "version": "1.0.0",
+  "description": "Boilerplate, pure DOM, use WebWorker",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JaroslavRusanov/boilerplate-DOM-WebPack-WebWorker.git"
+  },
+  "author": "Iaroslav Rusanov sco.nuff@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaroslavRusanov/boilerplate-DOM-WebPack-WebWorker/issues"
+  },
+  "homepage": "https://github.com/JaroslavRusanov/boilerplate-DOM-WebPack-WebWorker#readme",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1"
+  }
+}
